@@ -10,7 +10,6 @@
           <b>Selection Screen</b>
         </p>
       </td>
-
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
