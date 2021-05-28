@@ -27,7 +27,7 @@
         <p align="center">
             <a href="https://www.linkedin.com/in/suvrashaw"><img src="https://img.shields.io/badge/-Suvra Shaw-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
         </p>
-        <br><br>
+        <br>
         <p align="center">
             <a href="https://www.linkedin.com/in/kaustav-roy-8070111a3"><img src="https://img.shields.io/badge/-Kaustav Roy-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
         </p>
