@@ -7,7 +7,7 @@
           <img height="200" src="Selection Screen.png" />
         </p>
         <p align="center">
-        <b>Selection Screen</b>
+          <b>Selection Screen</b>
         </p>
       </td>
       <td>
@@ -19,10 +19,6 @@
           <b>Home Screen 1</b>
         </p>
       </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
@@ -40,10 +36,6 @@
         <p align="center">
           <b>Home Screen 2</b>
       </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
       <td>
       <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
