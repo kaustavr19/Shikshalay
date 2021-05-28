@@ -4,7 +4,7 @@
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="480px" width="270px" src="Selection Screen.png" />
+          <img height="300px" src="Selection Screen.png" />
         </p>
         <p align="center">
           <b>Selection Screen</b>
@@ -15,7 +15,7 @@
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="500px" src="Home Screen 1.png" />
+          <img height="300" src="Home Screen 1.png" />
         </p>
         <p align="center">
           <b>Home Screen 1</b>
@@ -24,7 +24,7 @@
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-        <img height="500px" src="Sub Screen 1.png" />
+        <img height="300" src="Sub Screen 1.png" />
         </p>
         <p align="center">
           <b>Sub Screen 1</b>
@@ -35,7 +35,7 @@
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="480px" width="270px" src="Home Screen 2.png" />
+          <img height="300" src="Home Screen 2.png" />
         </p>
         <p align="center">
           <b>Home Screen 2</b>
@@ -43,7 +43,7 @@
       <td>
       <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="480px" width="270px" src="Sub Screen 2.png" />
+          <img height="300" src="Sub Screen 2.png" />
         </p>
         <p align="center">
           <b>Sub Screen 2</b>
