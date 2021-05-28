@@ -2,7 +2,6 @@
   <tbody>
      <tr>
       <td>
-        <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
           <img height="300px" src="Selection Screen.png" />
         </p>
