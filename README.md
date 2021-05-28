@@ -7,11 +7,11 @@
       </td>
       <td>
         <p align="center"><img height="300" src="design-frames/Home Screen 1.png" /></p>
-        <p align="center"><b>Home Screen 1</b></p>
+        <p align="center"><b>Home Screen-1</b></p>
       </td>
       <td>
         <p align="center"><img height="300" src="design-frames/Sub Screen 1.png" /></p>
-        <p align="center"><b>Sub Screen 1</b></p>
+        <p align="center"><b>Sub Screen-1</b></p>
       </td>
     </tr>
     <tr>
@@ -22,11 +22,11 @@
       </td>
       <td>
         <p align="center"><img height="300" src="design-frames/Home Screen 2.png" /></p>
-        <p align="center"><b>Home Screen 2</b>
+        <p align="center"><b>Home Screen-2</b>
       </td>
       <td>
         <p align="center"><img height="300" src="design-frames/Sub Screen 2.png" /></p>
-        <p align="center"><b>Sub Screen 2</b></p>
+        <p align="center"><b>Sub Screen-2</b></p>
       </td>
     </tr>
   </tbody>
