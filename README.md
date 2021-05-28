@@ -39,7 +39,26 @@
       <td>
       <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="500px" src="Sub Screen 1.png" />
+          <img height="500px" src="Sub Screen 2.png" />
+        </p>
+        <p align="center">
+          <b>Sub Screen 2</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>&nbsp;</p> <!-- spacer -->
+        <p align="center">
+          <img height="500px" src="Home Screen 2.png" />
+        </p>
+        <p align="center">
+          <b>Home Screen 2</b>
+      </td>
+      <td>
+      <p>&nbsp;</p> <!-- spacer -->
+        <p align="center">
+          <img height="500px" src="Sub Screen 2.png" />
         </p>
         <p align="center">
           <b>Sub Screen 2</b>
