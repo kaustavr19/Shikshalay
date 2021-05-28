@@ -4,7 +4,7 @@
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
-          <img height="500px" src="Selection Screen.png" />
+          <img height="480px" width="270px" src="Selection Screen.png" />
         </p>
         <p align="center">
           <b>Selection Screen</b>
