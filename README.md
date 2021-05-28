@@ -29,7 +29,7 @@
         </p>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>
         <p>&nbsp;</p> <!-- spacer -->
         <p align="center">
