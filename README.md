@@ -24,11 +24,11 @@
         <p align="center"><b>Sub Screen 2</b></p>
       </td>
       <td>
-        <p align="center"><h3>Projcect By</h3>
-            <a href="https://www.linkedin.com/in/suvrashaw"><img src="https://img.shields.io/badge/-Suvra Shaw-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+        <p align="left"><h3>Projcect By</h3>
+            <a href="https://www.linkedin.com/in/suvrashaw"><img align="left" src="https://img.shields.io/badge/-Suvra Shaw-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
         </p>
-        <p align="center">
-            <a href="https://www.linkedin.com/in/suvrashaw"><img src="https://img.shields.io/badge/-Suvra Shaw-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+        <p align="left">
+            <a href="https://www.linkedin.com/in/kaustav-roy-8070111a3"><img src="https://img.shields.io/badge/-Kaustav Roy-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
         </p>
       </td>
     </tr>
