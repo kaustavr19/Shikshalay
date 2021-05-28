@@ -2,8 +2,17 @@
   <tbody>
     <tr>
       <td>
+<<<<<<< HEAD
         <p align="center"><img height="300px" src="design-frames/Selection Screen.png" /></p>
         <p align="center"><b>Selection Screen</b></p>
+=======
+        <p align="center">
+          <img height="300px" src="Selection Screen.png" />
+        </p>
+        <p align="center">
+          <b>Selection Screen</b>
+        </p>
+>>>>>>> c03758c44c360e054c411a15311c6a5c441e3450
       </td>
       <td>
         <p align="center"><img height="300" src="design-frames/Home Screen 1.png" /></p>
