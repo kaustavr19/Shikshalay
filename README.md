@@ -27,7 +27,7 @@
 ```
 </h3>
 <h2 align="center"> :label: Competitions</h2>
-<h3 align="center"> 🏅 Top 50 all over India in Glossas 2021, BIT Techfest – <a href="https://bit.ly/3g8NNrg">Winners' Announcement</a></h3>
+<h3 align="center"> 🏵️ Top 50 all over India in Glossas 2021, BIT Techfest – <a href="https://bit.ly/3g8NNrg">Winners' Announcement</a></h3>
 <h3 align="center"> 🥉 IETE Forum (UEMK) Project Competition – <a href="">Winners' Announcement</a></h3>
 <h3 align="center" id="Made_by"> :label: Made By</h3>
 <p align="center">
