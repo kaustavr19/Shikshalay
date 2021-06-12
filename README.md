@@ -3,7 +3,7 @@
   <a href="https://suvrashaw.medium.com/project-shikshalay-the-ideation-and-its-prototype-design-e72e107a812d">
     <img src="https://img.shields.io/badge/-Read our ideation on Medium-00ab6c?style=rounded-square&logo=Medium&logoColor=white" height = 40/>
   </a>
-  <a href="https://www.behance.net/gallery/115714183/OHO-An-OYO-Clone">
+  <a href="https://www.behance.net/gallery/121402097/Project-Shikshalay">
     <img src="https://img.shields.io/badge/-Review our design on Behance-1769ff?style=rounded-square&logo=Behance&logoColor=white" height = 40/>
   </a>
   <a href="https://www.youtube.com/watch?v=akL6zSOmkik">
